@@ -56,7 +56,7 @@ Master cut
 
 
 
-Dokcker image
+Docker image
 =====================
 
 https://medium.com/@karthi.net/docker-tutorial-build-docker-images-using-jenkins-d2880e65b74
